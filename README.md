@@ -1,4 +1,4 @@
-# cx-3D-roguelike
+# godot-3d-plane-game-cx
 
 A 3D space shooter with roguelite progression, built with **Godot 4**.
 
@@ -12,7 +12,7 @@ and eventually a boss wakes up and fills the screen with bullets.
 
 Don't want to install Godot? Grab the packaged Windows build and just double-click it.
 
-**[⬇ Download cx-3D-roguelike v1.0.0 (Windows x64, single file, 108 MB)](https://github.com/cx-ya/cx-3D-roguelike/releases/latest)**
+**[⬇ Download v1.0.0 (Windows x64, single file, 108 MB)](https://github.com/cx-ya/godot-3d-plane-game-cx/releases/latest)**
 
 > Windows 10/11 x64 · Vulkan-capable GPU required · no installation, no extra files
 
